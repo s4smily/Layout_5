@@ -1,0 +1,138 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+
+
+    color: sandybrown;
+    background-color: aqua;
+    text-align: center;
+    height: 50px;
+}
+
+.banner{
+
+    background-color: rebeccapurple;
+    text-align: center;
+    height: 200px;
+
+    font-size: 30px;
+}
+
+.about{
+
+    display: flex;
+
+}
+
+.left{
+
+    width: 50%;
+    height: 300px;
+    background-color: brown;
+    text-align: center;
+
+
+}
+
+.right{
+
+    width: 50%;
+    height: 300px;
+    background-color: green;
+    text-align: center;
+
+
+}
+
+.feature{
+
+    display: flex;
+
+}
+
+.first{
+
+width: 33.3%;
+height: 200px;
+background-color: honeydew;
+text-align: center;
+
+
+}
+
+.second{
+
+
+width: 33.3%;
+height: 200px;
+background-color: royalblue;
+text-align: center;
+
+}
+
+.third{
+    width: 33.3%;
+    height: 200px;
+    background-color: khaki;
+    text-align: center;
+
+}
+
+.ad{
+display: flex;
+
+
+}
+
+.left_ad{
+
+width: 30%;
+height: 200px;
+background-color: darkcyan;
+text-align: center;
+
+}
+
+.right_ad{
+
+    width: 70%;
+    height: 200px;
+   background-color: seagreen;
+   text-align: center;
+
+
+}
+
+.slider{
+
+    display: flex;
+
+}
+
+.left_slider{
+
+width: 80%;
+height: 200px;
+background-color: gold;
+text-align: center;
+}
+
+.right_slider{
+    width: 20%;
+    height: 200px;
+    background-color: grey;
+    text-align: center;
+
+}
+
+footer{
+
+text-align: center;
+color: white;
+background-color: black;
+
+}
